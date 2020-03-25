@@ -1,4 +1,4 @@
-function confirmModel(formID, text, type) {
+function confirmModal(formID, text, type) {
 	// check inputs
 	if (!formID || !text || !type) {
 		return console.log('Error: params required');
