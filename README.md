@@ -3,7 +3,7 @@ confirmation modal with types
 
 # usage
 ```
-<button onclick="confirmModel('#formID', 'Text you want to show to the user', 1)">Show Modal</button>
+<button onclick="confirmModal('#formID', 'Text you want to show to the user', 1)">Show Modal</button>
 ```
 
 1. type 1: Submit Confirmation
