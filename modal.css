@@ -48,6 +48,18 @@
 	border-radius: 4px;
 }
 
+.modal-content .btn-danger {
+	color: #fff;
+	background-color: #d9534f;
+	border-color: #d43f3a;
+}
+
+.modal-content .btn-primary {
+	color: #fff;
+	background-color: #337ab7;
+	border-color: #2e6da4;
+}
+
 /* The Close Button */
 .close {
 	color: #aaa;
