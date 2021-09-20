@@ -10,5 +10,4 @@ confirmation modal with types
 2. type 2: Delete Confirmation
 
 # creadits
-- Modal style by W3 school
-- repo by: [Kyriakos Milad](https://github.com/KyriakosMilad)
+- Modal style by W3school
